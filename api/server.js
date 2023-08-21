@@ -5,11 +5,13 @@ const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
-// Add this before server.use(router)
-server.use(jsonServer.rewriter({
-    '/api/*': '/$1',
-    '/blog/:resource/:programId/show': '/:resource/:programId'
-}))
+
+server.get('/api/beneficiaryLTI/balances', (req, res) => {
+    const db = router.db;
+    const data = db.get('api.beneficiaryLTI.balances').value();
+    res.json(data);
+  });
+  
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
