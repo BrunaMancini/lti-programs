@@ -8,6 +8,7 @@
           "plan": "ILP Stock Options",
           "LTIType": "Stock Options",
           "grantDate": "2021-01-01T00:00:00",
+          "grantedAmountCurrentBase": "300",
           "estimatedGrossGainWithTotalBalance": 3000,
           "tranches": [
             {
@@ -17,6 +18,7 @@
               "isSettled": "true",
               "vestingDate": "2022-01-01T00:00:00",
               "ExpiryDate": "2023-01-01T00:00:00",
+              "grantedAmountCurrentBase":"100",
               "estimatedGrossGainWithTotalBalance": 1000
             },
             {
@@ -26,6 +28,7 @@
               "isSettled": "false",
               "vestingDate": "2023-01-01T00:00:00",
               "ExpiryDate": "2024-01-01T00:00:00",
+              "grantedAmountCurrentBase":"100",
               "estimatedGrossGainWithTotalBalance": 1000
             },
             {
@@ -35,6 +38,7 @@
               "isSettled": "false",
               "vestingDate": "2024-01-01T00:00:00",
               "ExpiryDate": "2025-01-01T00:00:00",
+              "grantedAmountCurrentBase":"100",
               "estimatedGrossGainWithTotalBalance": 1000
             },
             {
@@ -44,6 +48,7 @@
               "isSettled": "false",
               "vestingDate": "2025-01-01T00:00:00",
               "ExpiryDate": "2026-01-01T00:00:00",
+              "grantedAmountCurrentBase":"100",
               "estimatedGrossGainWithTotalBalance": 1000
             }
           ]
