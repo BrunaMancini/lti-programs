@@ -1,48 +1,54 @@
-[
-  {
-    "programId": "1",
-    "programName": "PLANO I PROGRAMA I",
-    "plan": "ILP Stock Options",
-    "LTIType": "Stock Options",
-    "grantDate": "2021-01-01T00:00:00",
-    "estimatedGrossGainWithTotalBalance": 3000,
-    "tranches": [
-      {
-        "tranche": "1",
-        "isVested": "false",
-        "isInVesting": "false",
-        "isSettled": "true",
-        "vestingDate": "2022-01-01T00:00:00",
-        "ExpiryDate": "2023-01-01T00:00:00",
-        "estimatedGrossGainWithTotalBalance": 1000
-      },
-      {
-        "tranche": "2",
-        "isVested": "true",
-        "isInVesting": "false",
-        "isSettled": "false",
-        "vestingDate": "2023-01-01T00:00:00",
-        "ExpiryDate": "2024-01-01T00:00:00",
-        "estimatedGrossGainWithTotalBalance": 1000
-      },
-      {
-        "tranche": "3",
-        "isVested": "false",
-        "isInVesting": "true",
-        "isSettled": "false",
-        "vestingDate": "2024-01-01T00:00:00",
-        "ExpiryDate": "2025-01-01T00:00:00",
-        "estimatedGrossGainWithTotalBalance": 1000
-      },
-      {
-        "tranche": "4",
-        "isVested": "false",
-        "isInVesting": "true",
-        "isSettled": "false",
-        "vestingDate": "2025-01-01T00:00:00",
-        "ExpiryDate": "2026-01-01T00:00:00",
-        "estimatedGrossGainWithTotalBalance": 1000
-      }
-    ]
+{
+  "api": {
+    "beneficiaryLTI": {
+      "balances": [
+        {
+          "programId": "1",
+          "programName": "PLANO I PROGRAMA I",
+          "plan": "ILP Stock Options",
+          "LTIType": "Stock Options",
+          "grantDate": "2021-01-01T00:00:00",
+          "estimatedGrossGainWithTotalBalance": 3000,
+          "tranches": [
+            {
+              "tranche": "1",
+              "isVested": "false",
+              "isInVesting": "false",
+              "isSettled": "true",
+              "vestingDate": "2022-01-01T00:00:00",
+              "ExpiryDate": "2023-01-01T00:00:00",
+              "estimatedGrossGainWithTotalBalance": 1000
+            },
+            {
+              "tranche": "2",
+              "isVested": "true",
+              "isInVesting": "false",
+              "isSettled": "false",
+              "vestingDate": "2023-01-01T00:00:00",
+              "ExpiryDate": "2024-01-01T00:00:00",
+              "estimatedGrossGainWithTotalBalance": 1000
+            },
+            {
+              "tranche": "3",
+              "isVested": "false",
+              "isInVesting": "true",
+              "isSettled": "false",
+              "vestingDate": "2024-01-01T00:00:00",
+              "ExpiryDate": "2025-01-01T00:00:00",
+              "estimatedGrossGainWithTotalBalance": 1000
+            },
+            {
+              "tranche": "4",
+              "isVested": "false",
+              "isInVesting": "true",
+              "isSettled": "false",
+              "vestingDate": "2025-01-01T00:00:00",
+              "ExpiryDate": "2026-01-01T00:00:00",
+              "estimatedGrossGainWithTotalBalance": 1000
+            }
+          ]
+        }
+      ]
+    }
   }
-]
+}
