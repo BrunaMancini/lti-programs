@@ -13,9 +13,7 @@
           "tranches": [
             {
               "tranche": "1",
-              "isVested": "false",
-              "isInVesting": "false",
-              "isSettled": "true",
+              "status": "settled",
               "vestingDate": "2022-01-01T00:00:00",
               "ExpiryDate": "2023-01-01T00:00:00",
               "grantedAmountCurrentBase":"100",
@@ -23,9 +21,7 @@
             },
             {
               "tranche": "2",
-              "isVested": "true",
-              "isInVesting": "false",
-              "isSettled": "false",
+              "status": "vested",
               "vestingDate": "2023-01-01T00:00:00",
               "ExpiryDate": "2024-01-01T00:00:00",
               "grantedAmountCurrentBase":"100",
@@ -33,9 +29,7 @@
             },
             {
               "tranche": "3",
-              "isVested": "false",
-              "isInVesting": "true",
-              "isSettled": "false",
+              "status": "vesting",
               "vestingDate": "2024-01-01T00:00:00",
               "ExpiryDate": "2025-01-01T00:00:00",
               "grantedAmountCurrentBase":"100",
@@ -43,9 +37,7 @@
             },
             {
               "tranche": "4",
-              "isVested": "false",
-              "isInVesting": "true",
-              "isSettled": "false",
+              "status": "vesting",
               "vestingDate": "2025-01-01T00:00:00",
               "ExpiryDate": "2026-01-01T00:00:00",
               "grantedAmountCurrentBase":"100",
