@@ -11,6 +11,13 @@ server.get('/api/ltiSimulator/summary', (req, res) => {
     const data = db.get('api.ltiSimulator.summary').value();
     res.json(data);
   });
+
+server.get('/api/ltiSimulator/fullSimulationResult', (req, res) => {
+    const db = router.db;
+    const data = db.get('api.ltiSimulator.fullSimulationResult').value();
+    res.json(data);
+  });
+  
   
 server.use(router)
 server.listen(3000, () => {
