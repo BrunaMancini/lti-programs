@@ -6,9 +6,9 @@ const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
 
-server.get('/api/beneficiaryLTI/balances', (req, res) => {
+server.get('/api/ltiSimulator/summary', (req, res) => {
     const db = router.db;
-    const data = db.get('api.beneficiaryLTI.balances').value();
+    const data = db.get('api.ltiSimulator.summary').value();
     res.json(data);
   });
   
