@@ -1,0 +1,612 @@
+{
+  "api": {
+    "sharesPortfolio": {
+      "stockPrice": "19.33",
+      "currency": "BRL",
+      "vestingSharesAmount": "40404",
+      "vestingSharesValue": "781009.32"
+    },
+    "sharesPrices": [
+      {
+        "stockPrice": "4.29",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-10-2022"
+      },
+      {
+        "stockPrice": "4.84",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-08-2022"
+      },
+      {
+        "stockPrice": "7.1",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-08-2021"
+      },
+      {
+        "stockPrice": "4.16",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-07-2023"
+      },
+      {
+        "stockPrice": "3.63",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-05-2023"
+      },
+      {
+        "stockPrice": "6.13",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-05-2022"
+      },
+      {
+        "stockPrice": "2.85",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-03-2023"
+      },
+      {
+        "stockPrice": "7.03",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-03-2022"
+      },
+      {
+        "stockPrice": "3.29",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-01-2023"
+      },
+      {
+        "stockPrice": "6.42",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "31-01-2022"
+      },
+      {
+        "stockPrice": "4.05",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-11-2022"
+      },
+      {
+        "stockPrice": "5.46",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-11-2021"
+      },
+      {
+        "stockPrice": "4.19",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-09-2022"
+      },
+      {
+        "stockPrice": "7.1",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-09-2021"
+      },
+      {
+        "stockPrice": "4.9",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-08-2022"
+      },
+      {
+        "stockPrice": "7.11",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-08-2021"
+      },
+      {
+        "stockPrice": "4.4",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-06-2023"
+      },
+      {
+        "stockPrice": "4.59",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-06-2022"
+      },
+      {
+        "stockPrice": "3.6",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-05-2023"
+      },
+      {
+        "stockPrice": "6.29",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-05-2022"
+      },
+      {
+        "stockPrice": "2.89",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-03-2023"
+      },
+      {
+        "stockPrice": "7.33",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-03-2022"
+      },
+      {
+        "stockPrice": "3.25",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "30-01-2023"
+      },
+      {
+        "stockPrice": "3.74",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-12-2022"
+      },
+      {
+        "stockPrice": "6.01",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-12-2021"
+      },
+      {
+        "stockPrice": "4",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-11-2022"
+      },
+      {
+        "stockPrice": "5.79",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-11-2021"
+      },
+      {
+        "stockPrice": "6.78",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-10-2021"
+      },
+      {
+        "stockPrice": "4.15",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-09-2022"
+      },
+      {
+        "stockPrice": "6.85",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-09-2021"
+      },
+      {
+        "stockPrice": "5",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-08-2022"
+      },
+      {
+        "stockPrice": "4.41",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-07-2022"
+      },
+      {
+        "stockPrice": "4.59",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-06-2023"
+      },
+      {
+        "stockPrice": "4.8",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-06-2022"
+      },
+      {
+        "stockPrice": "3.53",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-05-2023"
+      },
+      {
+        "stockPrice": "6.9",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-04-2022"
+      },
+      {
+        "stockPrice": "2.75",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-03-2023"
+      },
+      {
+        "stockPrice": "7.34",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "29-03-2022"
+      },
+      {
+        "stockPrice": "3.75",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-12-2022"
+      },
+      {
+        "stockPrice": "6.05",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-12-2021"
+      },
+      {
+        "stockPrice": "4.02",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-11-2022"
+      },
+      {
+        "stockPrice": "4.15",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-10-2022"
+      },
+      {
+        "stockPrice": "6.78",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-10-2021"
+      },
+      {
+        "stockPrice": "4.14",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-09-2022"
+      },
+      {
+        "stockPrice": "6.94",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-09-2021"
+      },
+      {
+        "stockPrice": "4.12",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-07-2023"
+      },
+      {
+        "stockPrice": "4.49",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-07-2022"
+      },
+      {
+        "stockPrice": "4.39",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-06-2023"
+      },
+      {
+        "stockPrice": "4.82",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-06-2022"
+      },
+      {
+        "stockPrice": "3.19",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-04-2023"
+      },
+      {
+        "stockPrice": "7.19",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-04-2022"
+      },
+      {
+        "stockPrice": "2.65",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-03-2023"
+      },
+      {
+        "stockPrice": "7.37",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-03-2022"
+      },
+      {
+        "stockPrice": "3.08",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-02-2023"
+      },
+      {
+        "stockPrice": "6.38",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "28-01-2022"
+      },
+      {
+        "stockPrice": "3.68",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-12-2022"
+      },
+      {
+        "stockPrice": "5.92",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-12-2021"
+      },
+      {
+        "stockPrice": "4.13",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-10-2022"
+      },
+      {
+        "stockPrice": "6.63",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-10-2021"
+      },
+      {
+        "stockPrice": "4.19",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-09-2022"
+      },
+      {
+        "stockPrice": "7.15",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-09-2021"
+      },
+      {
+        "stockPrice": "7.19",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-08-2021"
+      },
+      {
+        "stockPrice": "4.07",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-07-2023"
+      },
+      {
+        "stockPrice": "4.49",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-07-2022"
+      },
+      {
+        "stockPrice": "4.44",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-06-2023"
+      },
+      {
+        "stockPrice": "4.8",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-06-2022"
+      },
+      {
+        "stockPrice": "6.07",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-05-2022"
+      },
+      {
+        "stockPrice": "3.13",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-04-2023"
+      },
+      {
+        "stockPrice": "7.11",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-04-2022"
+      },
+      {
+        "stockPrice": "2.51",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-03-2023"
+      },
+      {
+        "stockPrice": "3.04",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-02-2023"
+      },
+      {
+        "stockPrice": "3.42",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-01-2023"
+      },
+      {
+        "stockPrice": "6.25",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "27-01-2022"
+      },
+      {
+        "stockPrice": "3.63",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-12-2022"
+      },
+      {
+        "stockPrice": "5.91",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-11-2021"
+      },
+      {
+        "stockPrice": "3.97",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-10-2022"
+      },
+      {
+        "stockPrice": "6.58",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-10-2021"
+      },
+      {
+        "stockPrice": "4.29",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-09-2022"
+      },
+      {
+        "stockPrice": "4.85",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-08-2022"
+      },
+      {
+        "stockPrice": "7.1",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-08-2021"
+      },
+      {
+        "stockPrice": "4.22",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-07-2023"
+      },
+      {
+        "stockPrice": "4.17",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-07-2022"
+      },
+      {
+        "stockPrice": "4.42",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-06-2023"
+      },
+      {
+        "stockPrice": "3.46",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-05-2023"
+      },
+      {
+        "stockPrice": "6.18",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-05-2022"
+      },
+      {
+        "stockPrice": "3.05",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-04-2023"
+      },
+      {
+        "stockPrice": "7.02",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-04-2022"
+      },
+      {
+        "stockPrice": "3.48",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-01-2023"
+      },
+      {
+        "stockPrice": "6.22",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "26-01-2022"
+      },
+      {
+        "stockPrice": "4.05",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-11-2022"
+      },
+      {
+        "stockPrice": "6.08",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-11-2021"
+      },
+      {
+        "stockPrice": "4.09",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-10-2022"
+      },
+      {
+        "stockPrice": "6.63",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-10-2021"
+      },
+      {
+        "stockPrice": "5.03",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-08-2022"
+      },
+      {
+        "stockPrice": "7.34",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-08-2021"
+      },
+      {
+        "stockPrice": "4.2",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-07-2023"
+      },
+      {
+        "stockPrice": "4.15",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-07-2022"
+      },
+      {
+        "stockPrice": "3.45",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-05-2023"
+      },
+      {
+        "stockPrice": "5.92",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-05-2022"
+      },
+      {
+        "stockPrice": "3.18",
+        "currency": "BRL",
+        "ticker": "RAIZ4",
+        "date": "25-04-2023"
+      }
+    ]
+  }
+}
