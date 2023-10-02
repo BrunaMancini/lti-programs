@@ -283,6 +283,7 @@
           "grantDate": "2023-05-20T00:00:00",
           "vestingDate": "2024-05-20T00:00:00",
           "settlementForm": "money",
+          "tickerCurrency": "BRL",
           "grantedValue": "878580",
           "unvestedValue": "878580",
           "receivedValue": "0"
